@@ -1,0 +1,6 @@
+.venv/
+.env
+secret
+secret.pub
+memory.db
+__pycache__/
